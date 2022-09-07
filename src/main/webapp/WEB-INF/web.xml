@@ -1,0 +1,15 @@
+<web-app version="3.1" xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee 
+         http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd">
+    <display-name>Java_servlets_for_Tomcat</display-name>
+    <!--	For versions earlier than Servlet Api 3.0-->
+    <!--		 <servlet> -->
+    <!--		 <servlet-name>HelloWorldServlet</servlet-name>-->
+    <!--		 <servlet-class>groupId.artifactId.HelloWorldServlet</servlet-class>-->
+    <!--		 </servlet>-->
+    <!--		 <servlet-mapping> -->
+    <!--		 <servlet-name>HelloWorldServlet</servlet-name>-->
+    <!--		 <url-pattern>/hello</url-pattern>-->
+    <!--		 </servlet-mapping>-->
+</web-app>
